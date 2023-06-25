@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPrHUmb.jpg"},
+  {"desc2":"The Skibidi Toilet Yes Game was created by a team of engineers and designers aiming to transform the conventional bathroom experience","photo2":"https://iili.io/HPrH4hx.jpg"},
+  {"desc3":" Inspired by the growing trend of gamification in various industries","photo3":"https://iili.io/HPgg1BR.jpg"},
+  {"desc4":" they sought to bring an element of fun to an activity that is typically associated with boredom and solitude","photo4":"https://iili.io/HPrH6LQ.jpg"},
+  {"desc5":"The team envisioned a toilet that could detect the user's movements and respond with interactive challenges and rewards.","photo5":"https://iili.io/HPgS4FS.jpg"},
+  {"descd":"The Skibidi Toilet Yes Game incorporates several innovative features to make bathroom breaks more enjoyable. Equipped with motion sensors and advanced algorithms","photod":"https://iili.io/HPgSLAu.jpg"}
    ]
  
 }
